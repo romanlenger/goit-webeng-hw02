@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "module2-maintask2"
+version = "0.1.0"
+description = "GoIT_WEB_homework2_Kripak_Roman"
+authors = ["romanlenger <145775490+romanlenger@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.12.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
